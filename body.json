@@ -18,7 +18,7 @@
       {"english": "toes","french": "orteils"},
       {"english": "chest","french": "thorax"},
       {"english": "abdomen","french": "abdomen"},
-      {"english": "hairs","french": "cheveux"},
+      {"english": "hair","french": "cheveux"},
       {"english": "forehead","french": "front"},
       {"english": "eyebrows","french": "sourcils"},
       {"english": "eyes","french": "yeux"},
@@ -59,7 +59,7 @@
       {"english": "gum","french": "gencive"},
       {"english": "jawline","french": "mâchoire"},
       {"english": "beard","french": "barbe"},
-      {"english": "moustache","french": "moustache"},
+      {"english": "mustache","french": "moustache"},
       {"english": "chest","french": "poitrine"},
       {"english": "nipple","french": "téton"},
       {"english": "ribs","french": "côtes"},
@@ -75,7 +75,6 @@
       {"english": "skin","french": "peau"},
       {"english": "calves","french": "mollets"},
       {"english": "calf","french": "mollet"},
-      {"english": "hair","french": "poil"},
       {"english": "mole","french": "grain de beauté"},
       {"english": "wrinkle","french": "ride"},
       {"english": "bone","french": "os"},
@@ -93,7 +92,7 @@
       {"english": "sweat","french": "transpiration"},
       {"english": "tear","french": "larme"},
       {"english": "arch","french": "voûte plantaire"},
-      {"english": "buttocks","french": "fesse"},
+      {"english": "buttock","french": "fesse"},
       {"english": "big toe","french": "gros orteil"}
     ]
 }
